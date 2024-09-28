@@ -8,7 +8,7 @@ void  main (void)
 	for (i=0;i<100;i++)
 
 {
-	puts("test git");wsl --install
+	puts("test git");
 }
 
 
