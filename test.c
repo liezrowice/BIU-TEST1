@@ -1,7 +1,7 @@
 //test file  for git training 
 
 
-#include <primary_header.h>primary_header.h
+#include <primary_header.h
 #include <stdio.h>
 
 void  main (void)
