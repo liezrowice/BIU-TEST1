@@ -1,9 +1,11 @@
 //test file  for git training 
 
 
-#include <primary_header.h
+#include "/home/liezrowice/dani/primary_header.h"
 #include <stdio.h>
+//test
 
+int i=0;
 void  main (void)
 
 {
