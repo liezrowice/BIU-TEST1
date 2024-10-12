@@ -1,0 +1,5 @@
+# Perform the division and comparison
+if 28 / 7 < 6:
+    print("yes")
+else:
+    print("no")
