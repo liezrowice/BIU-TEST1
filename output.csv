@@ -1,0 +1,5 @@
+Metric ID,Metric Name,Avg,Max,Min,Number of Instances,Severity
+METRIC.CC,McCabe Cyclomatic Complexity,4.093,150,1,4237,low
+METRIC.NBD,Nested Blocks Depth,0.891,9,0,4237,low
+METRIC.NOPLIF,Physical Lines in Files,533.941,4466,13,188,high
+METRIC.NOSLIM,Source Lines in Methods,18.658,776,1,4114,high

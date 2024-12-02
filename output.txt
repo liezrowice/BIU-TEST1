@@ -1,0 +1,1000 @@
+  103  git branch -M main
+  104  git push -u origin main
+  105  nano test.c
+  106  git status
+  107  git commit -m "Initial commit"
+  108  git add test.c
+  109  git status 
+  110  git commit test.c
+  111  git commit -m "modify1 commit"
+  112  git status 
+  113  git push -u origin main
+  114  ls 
+  115  cat test2.c
+  116  nano
+  117  ls -a
+  118  git status 
+  119  git add primary_header.h
+  120  git status 
+  121  git commit -m "modify1 commit"
+  122  git status 
+  123  nano test.c 
+  124  git status 
+  125  git commit -m "modify1 commit"
+  126  git status 
+  127  git add test.c 
+  128  git status 
+  129  git commit -m "modify1 commit"
+  130  git push -u origin main
+  131  git pull origin main
+  132  nano test.c 
+  133  nano primary_header.h 
+  134  git status
+  135  ךד
+  136  ls
+  137  nano primary_header.h 
+  138  nano test.c 
+  139  git status
+  140  git add test.c 
+  141  git commit -m "modify2 commit"
+  142  git push -u origin main
+  143  ךד
+  144  ls
+  145  git status
+  146  cd .ssh
+  147  cd ssh
+  148  cd \
+  149  ls -l
+  150  cd ~/.ssh
+  151  ls -l
+  152  nano id_ed25519
+  153  cd dani
+  154  cd Dani
+  155  cd /dani
+  156  cd \
+  157  cd dani
+  158  ls -l
+  159  chmod test.c 400
+  160  sudo chmod 400 test.c
+  161  ls -l
+  162  nano test.c
+  163  sudo chmod 000 test.c
+  164  ls -l
+  165  nano test.c
+  166  sudo chmod 100 test.c
+  167  ls -l
+  168  sudo chmod 666 test.c
+  169  ls -l
+  170  nano test.c
+  171  git clone git@github.com:YuvalShaul/blabla.git
+  172  cd blabla
+  173  ls -l
+  174  ls -la
+  175  nano test.c
+  176  ls
+  177  git add test.c
+  178  git commit -m "Add test.c"
+  179  git status
+  180  git push origin main
+  181  mkdir demoC
+  182  cd demoC
+  183  ls- la
+  184  ls- l
+  185  ls
+  186  la -l
+  187  nano hello.c
+  188  ls
+  189  cat hello.c 
+  190  file hello.c 
+  191  gcc
+  192  sudo apt install gcc
+  193  gcc
+  194  cd\
+  195  cd dani
+  196  ls
+  197  gcc test.c
+  198  nano test.c 
+  199  git status
+  200  git add test.c
+  201  git commit test.c
+  202  gcc test.c
+  203  realpath primary_header.h 
+  204  /home/liezrowice/dani/primary_header.h/home/liezrowice/dani/primary_header.h
+  205  nano test.c
+  206  gcc test.c
+  207  nano test.c
+  208  gcc test.c
+  209  ls
+  210  ./a.out
+  211  gcc test.c -o test
+  212  ls
+  213  ./test
+  214  del a.out 
+  215  rm a.out 
+  216  ls
+  217  ./test
+  218  type test
+  219  ls
+  220  type ls
+  221  type test.c
+  222  type test
+  223  ./test
+  224  ls -l /bin/ls
+  225  file /bin/ls
+  226  type /bin/ls
+  227  git status
+  228  git add test.c
+  229  git status
+  230  git add test
+  231  git add test.c
+  232  git status
+  233  git commit test.c
+  234  git commit -m "include path update"
+  235  git status
+  236  git push origin main
+  237  rv
+  238  rm
+  239  rm --help
+  240  rm blabla/
+  241  rm -r blabla/
+  242  ls
+  243  cd blabla/
+  244  ls
+  245  rmdir blabla
+  246  cd dani
+  247  cd\
+  248  cd dani
+  249  rmdir blabla/
+  250  cd blabla/
+  251  ls -l
+  252  ls -la
+  253  rm -r blabla/
+  254  cd  /dani
+  255  cd \
+  256  cd dani
+  257  rm -r blabla/
+  258  y
+  259  rmdir blabla/
+  260  ls
+  261  ps
+  262  ps -a
+  263  ps --help
+  264  ps -l
+  265  nano my_script.sh
+  266  https://chatgpt.com/c/66fab9a3-b3a8-800b-8c9d-fb6490c42dcf#:~:text=Copy%20code-,chmod%20%2Bx,-example.sh
+  267  chmod +x my_script.sh 
+  268  ls -l
+  269  ./my_script.sh 
+  270  exit
+  271  cd \
+  272  ls
+  273  cd dani
+  274  ls -la
+  275  ./my_script.sh 
+  276  echo
+  277  echo $PATH$
+  278  cat my_script.sh 
+  279  ls ~python
+  280  python
+  281  python3
+  282  type python3
+  283  type bash
+  284  cd/user/bin/bash
+  285  cd/user/bin/
+  286  cd/user
+  287  cd /usr
+  288  ls -l
+  289  cd src
+  290  ls -l
+  291  cd\
+  292  cd dani
+  293  nano my_script.sh 
+  294  ./my_script.sh 
+  295  ךד -ך
+  296  ls -l
+  297  ./my_script.sh 
+  298  ./test
+  299  git status
+  300  git add my_script.sh 
+  301  git status
+  302  python3
+  303  ls -l /use/bin/
+  304  ls -l /usr/bin
+  305  python
+  306  python3
+  307  nano pytest.py
+  308  ls -l
+  309  ./pytest.py
+  310  chmod +x pytest.py
+  311  ls -l
+  312  ./pytest.py
+  313  nano pytest.py 
+  314  ./pytest.py
+  315  nano pytest.py 
+  316  del pytest.py
+  317  rm pytest.py
+  318  ls -l
+  319  nano pytest.py
+  320  git status
+  321  git add pytest.py 
+  322  ls -l
+  323  chmod +x pytest.py
+  324  ./pytest.py 
+  325  nano pytest.py
+  326  ./pytest.py 
+  327  ps1 ="Dani"
+  328  sudo ps1 ="Dani"
+  329  sudo PS1 ="dani"
+  330  ps1
+  331  PS1="\[\e[32m\]\u@\h:\w\$ \[\e[0m\]"
+  332  python3
+  333  nano devision
+  334  ls -l
+  335  nano devision 
+  336  ls -l
+  337  chmod +x devision.py
+  338  ./devision.py 
+  339  nano devision
+  340  nano devision.py 
+  341  ./devision.py 
+  342  nano devision.py
+  343  ./devision.py 
+  344  nano devision.py
+  345  ./devision.py 
+  346  chmod +x devision.py
+  347  ./devision.py 
+  348  nano devision.py
+  349  python3 devision.py 
+  350  nano devision.py
+  351  cd\
+  352  cd dani
+  353  cd..
+  354  cd mnt
+  355  cd\
+  356  cd mnt
+  357  ls -l
+  358  cd users
+  359  ls -a
+  360  git status
+  361  cd dani
+  362  git status 
+  363  ls -l
+  364  cd dani
+  365  cd\
+  366  ls -l
+  367  cd dani
+  368  ls -l
+  369  ./devision.py 
+  370  ./devision
+  371  ./test
+  372  python3 ./devision.py 
+  373  nano devision.py 
+  374  wsl --set-default Ubuntu
+  375  sudo apt install wsl
+  376  wsl --set-default Ubuntu
+  377  cd dani
+  378  ls -l
+  379  nano list1.py 
+  380  chmod +x list1.py 
+  381  ls -l
+  382  ./list1.py 
+  383  sudo apt-get install dos2unix
+  384  dos2unix list1.py
+  385  ./list1.py 
+  386  dos2unix list1.py
+  387  nano list1.py 
+  388  chmod +x list1.py 
+  389  ./list1.py 
+  390  nano list1.py
+  391  ./list1.py 
+  392  nano list1.py
+  393  chmod +x list1.py 
+  394  ./list1.py 
+  395  nano list1.py
+  396  ./list1.py 
+  397  python3 list1.py
+  398  nano list1.py
+  399  chmod +x list1.py 
+  400  python3 list1.py
+  401  nano list1.py
+  402  python3 list1.py
+  403  ./list1.py 
+  404  python3 list1.py
+  405  code
+  406  python3 list1.py
+  407  ls -a
+  408  git status
+  409  git add
+  410  git add list1.py
+  411  commit -m "list1"
+  412  git commit -m "list1 training"
+  413  git remote add origin https://github.com/liezrowice/BIU-TEST1
+  414  git push origin main
+  415  ping
+  416  ping localhost
+  417  ls -l
+  418  ./devision.py 
+  419  python3 ./devision.py 
+  420  wsl --list --verbose
+  421  wsl --set-default-version 2
+  422  exit
+  423  /bin/python3 /home/liezrowice/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/liezrowice/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+  424  /bin/python3 /home/liezrowice/BIU-TEST1/luhn.py
+  425  ls -l
+  426  cd\
+  427  ls -l
+  428  cd dani
+  429  ls -l
+  430  ./devision.py 
+  431  nano devision
+  432  nano devision.py 
+  433  ./devision.py 
+  434  nano devision.py 
+  435  ./devision.py 
+  436  nano devision.py 
+  437  nano devision
+  438  path
+  439  sudo path
+  440  paython3
+  441  python3
+  442  nano devision.py 
+  443  ls -l
+  444  ./luhn.py
+  445  sudo luhan.py
+  446  chmode +x luhn.py
+  447  sudo apt install 
+  448  sudo apt install coreutils
+  449  chmode +x luhn.py
+  450  chmod +x luhn.py
+  451  ls -l
+  452  ./luhn.py 
+  453  nano luhn.py 
+  454  ./luhn.py 
+  455  python3 luhn.py
+  456  ./luhn.py 
+  457  python3 luhn.py
+  458  1111
+  459  python3 luhn.py
+  460  git status
+  461  gid ass devision
+  462  git add devision
+  463  git add devision.py 
+  464  git add luhn.py 
+  465  git commit -m "new code for testing, luhn and devision"
+  466  git push origin main
+  467  https://github.com/liezrowice/BIU-TEST1
+  468  git remote add origin https://github.com/liezrowice/BIU-TEST1
+  469  git push origin main
+  470  git remote set-url origin https://github.com/liezrowice/BIU-TEST1.git
+  471  git push origin main
+  472  git remote set-url origin https://github.com/liezrowice/BIU-TEST1.git
+  473  git push origin main
+  474  ping github.com
+  475  ping google.com
+  476  ping localhost
+  477  ping github.com
+  478  sudo nano /etc/resolv.conf
+  479  git push origin main
+  480  cd /.ssh
+  481  cd ssh
+  482  find ssh
+  483  find SSH
+  484  ls ~/.ssh
+  485  echo ~/.ssh
+  486  cd /home/liezrowice
+  487  cd /home/liezrowice/.ssh
+  488  ls 
+  489  git remote set-url origin git@github.com:liezrowice/BIU-TEST1.git
+  490  cd dani
+  491  cd\
+  492  cd dani
+  493  git remote set-url origin git@github.com:liezrowice/BIU-TEST1.git
+  494  la -a
+  495  git push origin main
+  496  ls -l
+  497  nano devision.py 
+  498  git status
+  499  nano pytest
+  500  nano pytest.py 
+  501  pytest.py
+  502  ./pytest.py 
+  503  git ass devision.py
+  504  git add devision.py
+  505  git add pytest.py 
+  506  git status
+  507  git commit devision.py 
+  508  git push origin main
+  509  git commit -m "some changes"
+  510  git push origin main
+  511  ./devision.py 
+  512  nano devision.py 
+  513  python3 ./devision.py 
+  514  nano devision.py 
+  515  python3 ./devision.py 
+  516  git status
+  517  commit -m "now devision prints no"
+  518  git add all
+  519  git add devision.py 
+  520  commit -m "now devision prints no"
+  521  git commit -m "now devision prints no"
+  522  git push origin main
+  523  git pull origin branch-name
+  524  git pull origin main
+  525  ls -a
+  526  las -l
+  527  ls -l
+  528  ./pytest.py 
+  529  ./luhn.py 
+  530  python3 ./luhn.py 
+  531  python3
+  532  git stash 
+  533  git branch -a
+  534  pip install Flask
+  535  sudo apt install python3-pip
+  536  pip install Flask
+  537  ls -l
+  538  cd\
+  539  ls il
+  540  ls -l
+  541  cd BIU-TEST1/
+  542  ls -l
+  543  cd dani
+  544  cd\
+  545  cd dani
+  546  ls -l
+  547  wsl --list --verbose
+  548  which wsl
+  549  sudo apt update
+  550  sudo apt install build-essential gcc g++ make git wget python3 unzip cpio rsync
+  551  git clone https://github.com/buildroot/buildroot.git
+  552  cd buildroot
+  553  make menuconfig
+  554  sudo apt update
+  555  sudo apt install libncurses5-dev libncursesw5-dev
+  556  git clone https://github.com/buildroot/buildroot.git
+  557  `ls -l
+  558  `ls -l
+  559  ls -a
+  560  cd toolchain/
+  561  ls -ll
+  562  cd toolchain-bare-metal-buildroot/
+  563  ls -l
+  564  cd \
+  565  cd dani
+  566  cd buildroot/
+  567  make menuconfig
+  568  make
+  569  make menuconfig
+  570  make
+  571  make list-defconfigs
+  572  make bananapi_m2_berry_defconfig
+  573  make
+  574  export PATH=$(echo $PATH | tr -d ' \t\n')
+  575  make
+  576  ךד -ש
+  577  ls -l
+  578  cd output/
+  579  ls -l
+  580  cd.
+  581  cd\
+  582  cd dani/buildroot/
+  583  find /dani/buildroot -type f -name "*.elf"
+  584  find /dani/buildroot/images -type f -name "*.elf"
+  585  ls il
+  586  ls -l
+  587  cd output/
+  588  ls -l
+  589  cd images/
+  590  ls il
+  591  ls -l
+  592  בג\
+  593  c\
+  594  cd\
+  595  cd dani
+  596  nano
+  597  chmod +x alice.py 
+  598  ./alice.py 
+  599  python3 ./alice.py
+  600  nano alice.py 
+  601  python3 ./alice.py
+  602  nano alice.py 
+  603  python3 ./alice.py
+  604  nano alice.py 
+  605  nano
+  606  chmod +x alice-web.py 
+  607  python3 ./alice-web.py
+  608  nano alice-web.py 
+  609  python3 ./alice-web.py
+  610  nano alice.py 
+  611  python3
+  612  nano alice-web.py 
+  613  python3 ./alice-web.py
+  614  ךד
+  615  ls -l
+  616  ./luhn.py 
+  617  python3 ./luhn.py
+  618  nano luhn.py 
+  619  pip
+  620  python3 --version
+  621  pip3 --version
+  622  nano
+  623  ls -l
+  624  nano flask1 
+  625  ls -l
+  626  chmod +x flask1.py 
+  627  ./flask1.py 
+  628  python3 flask1.py 
+  629  cd\
+  630  ps -A
+  631  tty
+  632  cat tty
+  633  ls -l /dev/pts/0
+  634  cd /dev
+  635  ls -l
+  636  cat vfio
+  637  cat zero
+  638  cat vcsu
+  639  sudo cat vcsu
+  640  ls -A
+  641  cat fd
+  642  cat loop0
+  643  sudo cat loop0
+  644  ps -l
+  645  ps
+  646  ps -l
+  647  ps 
+  648  fork bash
+  649  exec bash
+  650  python3
+  651  pork
+  652  fork
+  653  cd\
+  654  fork
+  655  fork()
+  656  fork() bash
+  657  fork
+  658  Fork
+  659  exec --help
+  660  exec bash
+  661  exec
+  662  exec zsh
+  663  exec notepad.exe
+  664  ls -l
+  665  cd\
+  666  ls -l
+  667  cd dani
+  668  ls -l
+  669  bash
+  670  type ls
+  671  type -a ls
+  672  ps 
+  673  cd\
+  674  ps
+  675  source
+  676  source bash
+  677  cd dani
+  678  ls -l
+  679  source luhn
+  680  source luhn.py 
+  681  #!
+  682  #!type exit 
+  683  type exit 
+  684  exit
+  685  cd\
+  686  git clone 
+  687  git clone https://gitlab.com/BauotechEASP/mindtensionbauotechcloud
+  688  fork() ls -l
+  689  נשדי
+  690  bash
+  691  fork() bash
+  692  git clone https://gitlab.com/BauotechEASP/mindtensionbauotechcloud.git
+  693  cd mindtensionbauotechcloud
+  694  ls -l
+  695  sudo apt update && sudo apt upgrade -y
+  696  curl -s https://api.github.com/repos/anchore/syft/releases/latest | grep "browser_download_url.*linux-amd64" | cut -d '"' -f 4 | wget -qi -
+  697  chmod +x syft-linux-amd64
+  698  sudo mv syft-linux-amd64 /usr/local/bin/syft
+  699  sudo find / -name "syft"
+  700  find syft
+  701  find "syft"
+  702  sudo mv syft-linux-amd64 /usr/local/bin/syft
+  703  curl -s https://api.github.com/repos/anchore/syft/releases/latest | grep "browser_download_url.*linux-amd64" | cut -d '"' -f 4 | wget -qi -
+  704  cd usr
+  705  cd\
+  706  cd usr
+  707  ls -l
+  708  /usr
+  709  cd /usr
+  710  ls -l
+  711  cd bin
+  712  ls 
+  713  syft version
+  714  sudo snap install syft
+  715  sudo snap install syft --classic
+  716  syft version
+  717  syft . -o cyclonedx-json > sbom.json
+  718  cd\
+  719  ls -l
+  720  cd mindtensionbauotechcloud/
+  721  syft . -o cyclonedx-json > sbom.json
+  722  ls .l
+  723  ls -l
+  724  syft . -o cyclonedx-json > sbom.json
+  725  cat sbom.json
+  726  nano sbom.json 
+  727  cp sbom.json /mnt/c/Users/danie/Desktop/
+  728  sudo apt-get install wget apt-transport-https gnupg lsb-release
+  729  wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | gpg --dearmor | sudo tee /usr/share/keyrings/trivy.gpg > /dev/null
+  730  echo "deb [signed-by=/usr/share/keyrings/trivy.gpg] https://aquasecurity.github.io/trivy-repo/deb $(lsb_release -sc) main" | sudo tee -a /etc/apt/sources.list.d/trivy.list
+  731  sudo apt-get update
+  732  sudo apt-get install trivy
+  733  trivy -version
+  734  trivy
+  735  trivy --help
+  736  trivy sbom --input sbom.json 
+  737  trivy --version
+  738  sudo apt update
+  739  sudo apt install trivy
+  740  trivy --version
+  741  trivy sbom --input sbom.json 
+  742  trivy --version
+  743  trivy
+  744  trivy sbom sbom.json 
+  745  curl -LO https://github.com/CycloneDX/cyclonedx-cli/releases/latest/download/cyclonedx-cli-linux-amd64
+  746  chmod +x cyclonedx-cli-linux-amd64
+  747  sudo mv cyclonedx-cli-linux-amd64 /usr/local/bin/cyclonedx-cli
+  748  curl -LO https://github.com/CycloneDX/cyclonedx-cli/releases/latest/download/cyclonedx-cli-linux-amd64
+  749  chmod +x cyclonedx-cli-linux-amd64
+  750  sudo mv cyclonedx-cli-linux-amd64 /usr/local/bin/cyclonedx-cli
+  751  cyclonedx-cli validate --input-file sbom.json
+  752  curl
+  753  curl --version
+  754  cyclonedx-cli validate --input-file sbom.json
+  755  cd\
+  756  ls -l
+  757  nano
+  758  ls -l
+  759  chmod +x xml_parser.py
+  760  ./xml_parser.py 
+  761  python3 ./xml_parser.py 
+  762  nano xml_parser.py 
+  763  nano
+  764  chmod +x xml_parser1.py
+  765  python3 ./xml_parser1.py 
+  766  pip3 install pandas
+  767  python3 ./xml_parser1.py 
+  768  pip install matplotlib
+  769  python3 ./xml_parser1.py 
+  770  nano xml_parser1.py
+  771  ls -l
+  772  cd\
+  773  ls -l
+  774  python3 ./xml_parser1.py 
+  775  ls -l
+  776  cd dani
+  777  ls -l
+  778  nano luhn.py 
+  779  ./luhn.py 
+  780  paython3 ./luhn.py 
+  781  python3 ./luhn.py 
+  782  nano luhn.py 
+  783  python3
+  784  print("jj")
+  785  git clone https://github.com/splintchecker/splint.git
+  786  cd splint
+  787  ls -l
+  788  syft
+  789  syft . -o spdx-json > sbom.json
+  790  pip install --upgrade syft
+  791  syft -version
+  792  syft --version
+  793  ls -l
+  794  cat sbom.json 
+  795  ls -lh sbom.json 
+  796  ls -lh splint.spec 
+  797  syft . -o spdx-json > sbom.json
+  798  git clone https://github.com/splintchecker/splint.git
+  799  cd splint
+  800  syft . -o cyclonedx-json > sbom-cyclonedx.json
+  801  ls -l
+  802  syft . -o cyclonedx-json > \\wsl$\Ubuntu\home\liezrowice/sbom-cyclonedx.json
+  803  syft . -o cyclonedx-json > \\wsl$\Ubuntu\home\liezrowice\sbom-cyclonedx.json
+  804  cd\
+  805  ls -l
+  806  syft . -o cyclonedx-json > \\wsl$\Ubuntu\home\liezrowice\sbom-cyclonedx.json
+  807  ls -l
+  808  myvar=19
+  809  echo @myvar
+  810  echo $myvar
+  811  cat ten
+  812  nano
+  813  cat ten.sh 
+  814  ./ten.sh
+  815  chmod +x ten.sh
+  816  ./ten.sh 
+  817  echo "positional 10 ${10}"
+  818  ./ten
+  819  ./ten.sh
+  820  echo "positional 10 ${1}"
+  821  echo "positional 9
+  822  ./ten.sh
+  823  echo "positional 9
+  824  #!/bin/bash
+  825  #
+  826  echo "positional 1" $1
+  827  echo "positional 2" $2
+  828  echo "positional 3" $3
+  829  echo "positional 4" $4
+  830  echo "positional 5" $5
+  831  echo "positional 6" $6
+  832  echo "positional 7" $7
+  833  echo "positional 8" $8
+  834  echo "positional 9" $9
+  835  echo "positional 10" ${10}
+  836  num=5
+  837  echo num
+  838  echo $num
+  839  PS1=moshe
+  840  \
+  841  ls -l
+  842  cd\
+  843  ls -l
+  844  ls  \
+  845  del report
+  846  rm report
+  847  rm report.html
+  848  rm report.xml
+  849  rm report(2).xml
+  850  rm report (2).xml
+  851  ls -l
+  852  rm rep_header_3.png 
+  853  rm rep_header_expander.jpg 
+  854  rm rep_header_logo.png 
+  855  ls -l
+  856  PS1=$home
+  857  cd\
+  858  PS1=Dani
+  859  ls -l
+  860  exit
+  861  cd\
+  862  PS1 =Dani_ESL
+  863  PS1=Dani_ESL
+  864  PS2
+  865  exit
+  866  cd\
+  867  PS1=Dani_ESL:
+  868  git status 
+  869  cd dani
+  870  ls -l
+  871  git status
+  872  git add -A
+  873  git add
+  874  git add.
+  875  git add
+  876  git add .
+  877  git status 
+  878  $*
+  879  echo $*
+  880  echo $#
+  881  $0
+  882  echo $0
+  883  ps
+  884  echo $$
+  885  exit
+  886  cd\
+  887  cd dani
+  888  ps -all
+  889  ps $$
+  890  bash
+  891  echo $$
+  892  sleep 100 &
+  893  ps
+  894  kill sleep
+  895  kill 10258
+  896  ps 
+  897  sleep 10 &
+  898  ls &
+  899  ps  &
+  900  ps &
+  901  sleep 10 &
+  902  ps
+  903  sleep 10 &
+  904  ps
+  905  ps $!
+  906  sleep 10
+  907  sleep 10 &
+  908  ps
+  909  sleep 10
+  910  ps $!
+  911  echo $?
+  912  bash demo
+  913  ls -l
+  914  nano
+  915  chmod +x report_parser.py 
+  916  python3 report_parser.py 
+  917  nano report_parser.py 
+  918  nano
+  919  chmod +x report_parser1.py 
+  920  python3 report_parser1.py 
+  921  ls -l
+  922  python3 report_parser1.py 
+  923  nano report_parser1.py 
+  924  ps
+  925  echo $$
+  926  bash
+  927  ls -l
+  928  cd\
+  929  ls -l
+  930  cd aa
+  931  $cd
+  932  echo $?
+  933  cd dani
+  934  echo $?
+  935  echo $
+  936  type -a test 
+  937  test
+  938  cat test 
+  939  ls -l test
+  940  mkdir demo
+  941  cd demo
+  942  touch f1
+  943  ls -l
+  944  cat f1
+  945  test -e f1
+  946  touch
+  947  touch --help
+  948  touch f1.txt
+  949  ls -l
+  950  ls -l | more
+  951  cd\
+  952  ls -l | more
+  953  cd mht
+  954  cd mnt
+  955  ls -a
+  956  ls -l | more
+  957  cd\
+  958  ["bannan" ]
+  959  [ -r test]
+  960  ls -l
+  961  [ -r xml_parser.py]
+  962  [ -r xml_parser.py ]
+  963  if [ -r xml_parser.py ]; then     echo "File is readable."; else     echo "File is not readable."; fi
+  964  &sleep 1
+  965  sleep 1 &
+  966  sleep 4 &
+  967  sleep 10
+  968  ps -a
+  969  slepp 10
+  970  sleep 10
+  971  ps
+  972  ps -l
+  973  sleep 10
+  974  sleep 10 & 
+  975  jobs
+  976  fg 1
+  977  #!/bin/bash
+  978  if [ -f "one" ]; then     echo "ONE";     exit 0; elif [ -f "two" ]; then     echo "TWO";     exit 0; else     echo "Error: Neither 'one' nor 'two' exists." >&2;     exit 1; fi
+  979  cd\
+  980  #!/bin/bash
+  981  if [ -f "one" ]; then     echo "ONE";     exit 0; elif [ -f "two" ]; then     echo "TWO";     exit 0; else     echo "Error: Neither 'one' nor 'two' exists." >&2;     exit 1; fi
+  982  cd\
+  983  #!/bin/bash
+  984  if [ -f "one" ]; then     echo "ONE";     return 0; elif [ -f "two" ]; then     echo "TWO";     return 0; else     echo "Error: Neither 'one' nor 'two' exists." >&2;     return 1; fi
+  985  #!/bin/bash
+  986  if [ -f "one" ]; then     echo "1";     return 0; elif [ -f "two" ]; then     echo "2";     return 0; else     echo "Error: neither 'one' nor 'two' exists." >&2;     return 1; fi
+  987  #!/bin/bash
+  988  if [ -f "one" ]; then     echo "ONE";     return 0; elif [ -f "two" ]; then     echo "TWO";     return 0; else     echo "Error: Neither 'one' nor 'two' exists." >&2;     return 1; fi
+  989  touch one.py
+  990  ls -l
+  991  if [ -f "one" ]; then     echo "ONE";     return 0; elif [ -f "two" ]; then     echo "TWO";     return 0; else     echo "Error: Neither 'one' nor 'two' exists." >&2;     return 1; fi
+  992  #!/bin/bash
+  993  if [ -f "one" ]; then     echo "ONE";     return 0; elif [ -f "two" ]; then     echo "TWO";     return 0; else     echo "Error: Neither 'one' nor 'two' exists." >&2;     return 1; fi
+  994  if [ -f "one.py" ]; then echo "ONE"; exit 0; elif [ -f "two" ]; then echo "TWO"; exit 0; else echo "Error: Neither 'one.py' nor 'two' exists." >&2; exit 1; fi
+  995  cd\
+  996  if [ -f "one.py" ]; then     echo "ONE";     exit 0; elif [ -f "two" ]; then     echo "TWO";     exit 0; else     echo "Error: Neither 'one.py' nor 'two' exists." >&2;     exit 1; fi
+  997  cd\
+  998  if [ -f "one.py" ]; then     echo "ONE";     exit 0; elif [ -f "two" ]; then     echo "TWO";     exit 0; else     echo "Error: Neither 'one.py' nor 'two' exists." >&2;     exit 1;
+  999  if [ -f "one.py" ]; then     echo "ONE";     exit 0; elif [ -f "two" ]; then     echo "TWO";     exit 0; else     echo "Error: Neither 'one.py' nor 'two' exists." >&2;     exit 1; fi
+ 1000  בג\
+ 1001  cd\
+ 1002  #!/bin/bash
+ 1003  username=""
+ 1004  while [ -z "$username" ]; do     printf "Please insert your username:\n";     read username; done
+ 1005  printf "Thank you.\n"
+ 1006  date
+ 1007  ~
+ 1008  today=`date`
+ 1009  echo $today
+ 1010  thisday=$(date)
+ 1011  echo $today
+ 1012  vi
+ 1013  cd\
+ 1014  vi test
+ 1015  cd\
+ 1016  cd dani/
+ 1017  ls -l
+ 1018  cat sonatype-license-2023-12-21T181220Z.lic
+ 1019  ls -l
+ 1020  nano test.c
+ 1021  ./pytest.py 
+ 1022  nano pytest.py 
+ 1023  sudo apt update
+ 1024  sudo apt install neovim
+ 1025  curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ 1026  nvim
+ 1027  cd\
+ 1028  nvim
+ 1029  cd\
+ 1030  nvim
+ 1031  cd\
+ 1032  nvim test
+ 1033  cd\
+ 1034  echo $TERM
+ 1035  nvim -u NONE
+ 1036  cd\
+ 1037  :map <key>
+ 1038  nvim -V3logfile
+ 1039  cd\
+ 1040  $file ten.sh 
+ 1041  ls -l
+ 1042  $file report_dev1.html 
+ 1043  cat
+ 1044  nano report_dev1.html 
+ 1045  cat test.txt
+ 1046  cat >test.txt
+ 1047  cat --help
+ 1048  cat report_dev1.html 
+ 1049  cat report_dev1.html -n
+ 1050  cat report_dev1.html
+ 1051  cat report_dev1.html -n
+ 1052  cd\
+ 1053  nano
+ 1054  ls -l\
+ 1055  ls -l
+ 1056  cd dani
+ 1057  nano
+ 1058  ls -l
+ 1059  chmod +x test_files.sh
+ 1060  ls -l
+ 1061  ./test_files.sh 
+ 1062  nano test_files.sh 
+ 1063  ./test_files.sh 
+ 1064  nano test_files.sh 
+ 1065  which bash
+ 1066  bash --version
+ 1067  which gcc
+ 1068  gcc --version
+ 1069  perl
+ 1070  ./test_files.sh 
+ 1071  nano test_files.sh 
+ 1072  ./test_files.sh 
+ 1073  echo *
+ 1074  ls *.sh
+ 1075  ls p*
+ 1076  ls p?
+ 1077  touch abc
+ 1078  touch axc
+ 1079  ls a?c
+ 1080  קבים שסב
+ 1081  echo abc
+ 1082  echo test_files.sh 
+ 1083  cat test_files.sh 
+ 1084  nano
+ 1085  gcc
+ 1086  gcc -o find find.c
+ 1087  ls  -l
+ 1088  ./find
+ 1089  find /mht /test
+ 1090  find /dani test
+ 1091  pwd
+ 1092  ./find /home/liezrowice/dani test
+ 1093  ls -l
+ 1094  ./find /home/liezrowice/dani list
+ 1095  nano
+ 1096  chmod +x find_bash.sh 
+ 1097  ./find_bash.sh 
+ 1098  ./find_bash.sh /home/liezrowice/dani list
+ 1099  command_here > output.txt
+ 1100  clear
+ 1101  ./find_bash.sh /home/liezrowice/dani list
+ 1102  history > output.txt
